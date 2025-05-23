@@ -6,11 +6,11 @@ This project is a security-oriented macOS entitlement auditing toolkit designed 
 
 ## 📁 Project Structure
 macos-entitlement-audit/
-├── data/            # Extracted entitlement files (.plist)
-├── docs/            # Entitlement documentation and threat analysis
-├── scripts/         # Bash automation scripts
-├── screenshots/     # Screenshots demonstrating tool usage and output
-└── README.md        # Main project documentation
+- data/            # Extracted entitlement files (.plist)
+- docs/            # Entitlement documentation and threat analysis
+- scripts/         # Bash automation scripts
+- screenshots/     # Screenshots demonstrating tool usage and output
+- README.md        # Main project documentation
 
 ---
 
