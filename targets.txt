@@ -1,0 +1,5 @@
+/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+/Applications/Postman.app/Contents/MacOS/Postman
+/Applications/Visual Studio Code.app/Contents/MacOS/Electron
+/Applications/zoom.us.app/Contents/MacOS/zoom.us
+/Applications/Microsoft Teams.app/Contents/MacOS/Microsoft Teams
